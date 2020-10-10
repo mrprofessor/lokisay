@@ -1,6 +1,6 @@
 [package]
 name = "lokisay"
-version = "0.0.1"
+version = "0.0.2"
 description = "My cat can't speak so I built him a CLI."
 authors = ["mrprofessor"]
 edition = "2018"
