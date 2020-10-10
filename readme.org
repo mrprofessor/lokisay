@@ -1,5 +1,3 @@
 #+title: Lokisay
 
-Toying around with Rust CLI and cargo distribution.
-
-Loki is my cat!
+A much worse Cowsay alternative.
